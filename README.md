@@ -3,6 +3,8 @@
 Welcome to my GitHub repository for the **DevOps Journey 2024**!  
 This space is dedicated to capturing my learning experiences, exploring a variety of tools and technologies, and highlighting my projects in the world of DevOps.  
 
+<a href"https://muneelhaider.github.io/" target="_blank">View my deployed profile!</a>
+
 ---
 
 ## 📌 **DevOps Tools Acquired**  
@@ -24,34 +26,31 @@ Throughout this course, I’ve gained hands-on experience with the following too
 ### **Blog 1: Continuous Integration and Continuous Delivery (CI/CD): A Comprehensive Guide.**  
 Continuous Integration (CI) and Continuous Delivery (CD) are essential practices in modern software development, enabling teams to deliver reliable software efficiently. CI focuses on integrating code changes frequently, while CD automates deployment, keeping software always in a deployable state. Here’s what I’ve learned:
 
-Continuous Integration (CI): Regular code merges with automated builds and tests to catch issues early.
-Continuous Delivery (CD): Extends CI by automating deployment to ensure software is always ready to release.
-CI/CD Pipeline Stages: Includes committing code, running automated tests, staging, and production deployment.
-Popular Tools: Jenkins, GitLab CI, Travis CI, and CircleCI are widely used for automation.
-Faster Delivery: Features are delivered more quickly, reducing time-to-market.
-Improved Code Quality: Automated testing ensures issues are detected and fixed early.
-Collaboration Boost: Teams work more efficiently with streamlined workflows.
-Reliability: CI/CD makes software delivery consistent and predictable.
+- Continuous Integration (CI): Regular code merges with automated builds and tests to catch issues early.
+- Continuous Delivery (CD): Extends CI by automating deployment to ensure software is always ready to release.
+- CI/CD Pipeline Stages: Includes committing code, running automated tests, staging, and production deployment.
+- Popular Tools: Jenkins, GitLab CI, Travis CI, and CircleCI are widely used for automation.
+- Faster Delivery: Features are delivered more quickly, reducing time-to-market.
+- Improved Code Quality: Automated testing ensures issues are detected and fixed early.
+- Collaboration Boost: Teams work more efficiently with streamlined workflows.
+- Reliability: CI/CD makes software delivery consistent and predictable.
 
-- **Containers** ensure seamless consistency between development and deployment, making them essential for modern architectures.  
+
+**Containers** ensure seamless consistency between development and deployment, making them essential for modern architectures.  
 This post delves into their importance in **CI/CD**, **IaC**, and **microservices**, showcasing how these technologies enhance collaboration, scalability, and pipeline efficiency.  
 
 ### **Blog 2: Knative: The Future of Serverless Applications on Kubernetes**  
 Knative is an open-source platform that enhances Kubernetes by simplifying the deployment and management of serverless applications. Key features include:
 
-Automatic Scaling: Knative adjusts workloads based on traffic, scaling down to zero during inactivity.
-
-Event-Driven Architecture: It processes events from various sources, facilitating responsive applications.
-
-Simplified Deployment: Developers can deploy services with minimal configuration, focusing more on code than infrastructure.
+- Automatic Scaling: Knative adjusts workloads based on traffic, scaling down to zero during inactivity.
+- Event-Driven Architecture: It processes events from various sources, facilitating responsive applications.
+- Simplified Deployment: Developers can deploy services with minimal configuration, focusing more on code than infrastructure.
 
 To set up Knative on Kubernetes:
 
-Install Knative Components: Apply the necessary Custom Resource Definitions (CRDs) and core components.
-
-Add Networking Layer: Integrate an Ingress Gateway, such as Istio, to handle HTTP traffic.
-
-Verify Installation: Ensure all Knative Serving components are running smoothly.
+- Install Knative Components: Apply the necessary Custom Resource Definitions (CRDs) and core components.
+- Add Networking Layer: Integrate an Ingress Gateway, such as Istio, to handle HTTP traffic.
+- Verify Installation: Ensure all Knative Serving components are running smoothly.
 
 By leveraging Knative, developers can efficiently build and manage serverless applications on Kubernetes, benefiting from features like automatic scaling and event-driven processing.
 
@@ -93,3 +92,5 @@ I’m always open to connecting and sharing ideas. Feel free to reach out throug
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<p>View my deployed profile! <a href"https://muneelhaider.github.io/" target="_blank"> </a></p>
