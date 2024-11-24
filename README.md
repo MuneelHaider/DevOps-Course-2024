@@ -6,7 +6,7 @@ This space is dedicated to capturing my learning experiences, exploring a variet
 <a href="https://muneelhaider.github.io/" target="_blank">
     View my deployed profile!
 </a>
-
+<br><br>
 <a href="https://medium.com/@muneelhaider/modern-software-development-with-ci-cd-and-knative-5b5924320daf" target="_blank">
     My latest blog.
 </a>
