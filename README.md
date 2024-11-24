@@ -3,7 +3,9 @@
 Welcome to my GitHub repository for the **DevOps Journey 2024**!  
 This space is dedicated to capturing my learning experiences, exploring a variety of tools and technologies, and highlighting my projects in the world of DevOps.  
 
-<a href"https://muneelhaider.github.io/" target="_blank">View my deployed profile!</a>
+<p>
+  <a href="https://muneelhaider.github.io/" target="_blank">
+</p>
 
 ---
 
@@ -92,5 +94,3 @@ I’m always open to connecting and sharing ideas. Feel free to reach out throug
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<p>View my deployed profile! <a href"https://muneelhaider.github.io/" target="_blank"> </a></p>
