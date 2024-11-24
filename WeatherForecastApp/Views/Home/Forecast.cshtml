@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/css/forecast.css">
+    <title>@ViewData["Title"]</title>
+</head>
+<body onload="getLocation()">
+
+    <div class="container forecast-container">
+        <div id="forecast" class="forecast-display">
+            <h1>5-Day Forecast</h1><br />
+            <div id="forecast-container" class="row">
+                <!-- Forecast items will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition, showError);
+            } else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function showPosition(position) {
+            getForecast(position.coords.latitude, position.coords.longitude);
+        }
+
+        function showError(error) {
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    alert("User denied the request for Geolocation.");
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    alert("Location information is unavailable.");
+                    break;
+                case error.TIMEOUT:
+                    alert("The request to get user location timed out.");
+                    break;
+                case error.UNKNOWN_ERROR:
+                    alert("An unknown error occurred.");
+                    break;
+            }
+        }
+
+        function getForecast(lat, lon) {
+            const apiKey = '9b7b2ba2f0ec4d89a48c410cc6179f2a'; // Your Weatherbit API key
+            const apiUrl = `https://api.weatherbit.io/v2.0/forecast/daily?lat=${lat}&lon=${lon}&key=${apiKey}&units=I&days=5`;
+
+            fetch(apiUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const forecastData = data.data;
+                    displayForecast(forecastData);
+                })
+                .catch(error => console.error('Error fetching forecast:', error));
+        }
+
+        function displayForecast(forecastData) {
+            const forecastContainer = document.getElementById("forecast-container");
+            forecastContainer.innerHTML = "";
+
+            forecastData.forEach(day => {
+                const forecastItem = document.createElement("div");
+                forecastItem.classList.add("col-md-2", "text-center", "mb-3");
+                forecastItem.innerHTML = `
+                                    <h5>${new Date(day.valid_date).toDateString()}</h5>
+                                    <p><strong>High:</strong> ${day.max_temp} °F</p>
+                                    <p><strong>Low:</strong> ${day.min_temp} °F</p>
+                                    <p><strong>Description:</strong> ${day.weather.description}</p>
+                                `;
+                forecastContainer.appendChild(forecastItem);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\home\\searchcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\home\\searchcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\home\\forecast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\home\\forecast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\home\\currentweather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\home\\currentweather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\forecast.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:wwwroot\\css\\forecast.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|d:\\softwares\\visual studio\\asp.net\\weatherforecastapp\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FFC6C3-3682-4284-944F-FCEAE5C505F5}|WeatherForecastApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "currentWeather.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\currentWeather.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\currentWeather.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\currentWeather.cshtml",
+              "RelativeToolTip": "Views\\Home\\currentWeather.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T20:56:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchCity.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\SearchCity.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SearchCity.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\SearchCity.cshtml",
+              "RelativeToolTip": "Views\\Home\\SearchCity.cshtml",
+              "ViewState": "AQIAABoAAABIAAAAAAAhwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T20:44:31.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEoAAAAwAgAAAAAhwCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T14:12:45.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "forecast.css",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\forecast.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\forecast.css",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\forecast.css",
+              "RelativeToolTip": "wwwroot\\css\\forecast.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T20:11:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:06:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forecast.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Forecast.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Forecast.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Forecast.cshtml",
+              "RelativeToolTip": "Views\\Home\\Forecast.cshtml",
+              "ViewState": "AQIAADAAAADAmJmZmZkuwE0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T20:27:37.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:06:15.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:07:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T20:44:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "search.css",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\search.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\search.css",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\wwwroot\\css\\search.css",
+              "RelativeToolTip": "wwwroot\\css\\search.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T19:09:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAABAnJmZmZkuwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:07:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:07:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T20:55:31.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T20:54:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Softwares\\Visual Studio\\ASP.Net\\WeatherForecastApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:57:49.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

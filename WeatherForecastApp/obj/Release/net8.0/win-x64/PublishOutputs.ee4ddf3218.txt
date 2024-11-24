@@ -1,0 +1,6 @@
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\WeatherForecastApp.pdb
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+D:\Softwares\Visual Studio\ASP.Net\WeatherForecastApp\obj\Release\net8.0\win-x64\PubTmp\Out\WeatherForecastApp.exe

@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Current Weather";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>@ViewData["Title"] - Current Weather</title>
+</head>
+<body onload="getWeather()">
+
+    <div class="container weather-container">
+        <div id="current-weather" class="weather-display">
+            <h1>Current Weather</h1>
+            <p><strong>City:</strong> <span id="city">--</span></p>
+            <p><strong>Temperature:</strong> <span id="temperature">--</span> °C</p>
+            <p><strong>Description:</strong> <span id="weatherDescription">--</span></p>
+            <p><strong>Humidity:</strong> <span id="humidity">--</span>%</p>
+            <p><strong>Wind Speed:</strong> <span id="windSpeed">--</span> mps</p>
+        </div>
+    </div>
+
+    <script>
+        function getWeather() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(
+                    position => {
+                        const lat = position.coords.latitude;
+                        const lon = position.coords.longitude;
+                        const apiKey = '9b7b2ba2f0ec4d89a48c410cc6179f2a';
+                        const apiUrl = `https://api.weatherbit.io/v2.0/current?lat=${lat}&lon=${lon}&key=${apiKey}&units=M`;
+
+                        fetch(apiUrl)
+                            .then(response => {
+                                if (!response.ok) {
+                                    throw new Error('Network response was not ok ' + response.statusText);
+                                }
+                                return response.json();
+                            })
+                            .then(data => {
+                                const weather = data.data[0];
+                                document.getElementById("city").textContent = weather.city_name;
+                                document.getElementById("temperature").textContent = (weather.temp).toFixed(1);
+                                document.getElementById("weatherDescription").textContent = weather.weather.description;
+                                document.getElementById("humidity").textContent = weather.rh;
+                                document.getElementById("windSpeed").textContent = (weather.wind_spd * 2.237).toFixed(2);
+                            })
+                            .catch(error => console.error('Error fetching weather:', error));
+                    },
+                    error => {
+                        console.error('Error getting location:', error);
+                    }
+                );
+            } else {
+                console.error("Geolocation is not supported by this browser.");
+            }
+        }
+    </script>
+
+</body>
+</html>
