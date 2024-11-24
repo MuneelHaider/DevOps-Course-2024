@@ -7,6 +7,10 @@ This space is dedicated to capturing my learning experiences, exploring a variet
     View my deployed profile!
 </a>
 
+<a href="https://medium.com/@muneelhaider/modern-software-development-with-ci-cd-and-knative-5b5924320daf" target="_blank">
+    My latest blog.
+</a>
+
 ---
 
 ## 📌 **DevOps Tools Acquired**  
